@@ -1,0 +1,3 @@
+brad traversy ki start ki video dekhne se setup smjh aega
+tailwind css mn convert hojata jo hm likhte(main.css)
+isme koi component nhi hota like navbar wagera just utilities/class usi bnate jao
